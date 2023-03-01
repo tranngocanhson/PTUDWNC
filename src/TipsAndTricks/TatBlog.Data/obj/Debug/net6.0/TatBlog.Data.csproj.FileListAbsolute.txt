@@ -1,0 +1,15 @@
+D:\TipsAndTricks\TatBlog.Data\bin\Debug\net6.0\TatBlog.Data.deps.json
+D:\TipsAndTricks\TatBlog.Data\bin\Debug\net6.0\TatBlog.Data.dll
+D:\TipsAndTricks\TatBlog.Data\bin\Debug\net6.0\TatBlog.Data.pdb
+D:\TipsAndTricks\TatBlog.Data\bin\Debug\net6.0\TatBlog.Core.dll
+D:\TipsAndTricks\TatBlog.Data\bin\Debug\net6.0\TatBlog.Core.pdb
+D:\TipsAndTricks\TatBlog.Data\obj\Debug\net6.0\TatBlog.Data.csproj.AssemblyReference.cache
+D:\TipsAndTricks\TatBlog.Data\obj\Debug\net6.0\TatBlog.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\TipsAndTricks\TatBlog.Data\obj\Debug\net6.0\TatBlog.Data.AssemblyInfoInputs.cache
+D:\TipsAndTricks\TatBlog.Data\obj\Debug\net6.0\TatBlog.Data.AssemblyInfo.cs
+D:\TipsAndTricks\TatBlog.Data\obj\Debug\net6.0\TatBlog.Data.csproj.CoreCompileInputs.cache
+D:\TipsAndTricks\TatBlog.Data\obj\Debug\net6.0\TatBlog.Data.csproj.CopyComplete
+D:\TipsAndTricks\TatBlog.Data\obj\Debug\net6.0\TatBlog.Data.dll
+D:\TipsAndTricks\TatBlog.Data\obj\Debug\net6.0\refint\TatBlog.Data.dll
+D:\TipsAndTricks\TatBlog.Data\obj\Debug\net6.0\TatBlog.Data.pdb
+D:\TipsAndTricks\TatBlog.Data\obj\Debug\net6.0\ref\TatBlog.Data.dll

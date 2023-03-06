@@ -4,9 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TatBlog.Core.Constracts;
 
-public interface IEntity
+namespace TatBlog.Core.Constracts
 {
-    int Id { get; set; }
+    public interface IEntity
+    {
+        int Id { get; set; }
+    }
 }

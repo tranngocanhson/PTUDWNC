@@ -1,4 +1,4 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
+<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
@@ -12,9 +12,9 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Media\" />
-    <Folder Include="Extensions\" />
     <Folder Include="Blogs\" />
+    <Folder Include="Extensions\" />
+    <Folder Include="Media\" />
     <Folder Include="Rss\" />
   </ItemGroup>
 

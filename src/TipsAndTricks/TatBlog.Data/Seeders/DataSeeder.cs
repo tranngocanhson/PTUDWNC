@@ -111,9 +111,9 @@ namespace TatBlog.Data.Seeders
                     Meta="David and friends has a greate repository filled",
                     UrlSlug="ASPNET core diagnoretic-scenarious",
                     Published=true,
-                    PostDate=new DateTime(2021,9,30,10,20,0),
-                    ModifedDate=null,
-                    ViewCount=10,
+                    PostedDate=new DateTime(2021,9,30,10,20,0),
+                    ModifiedDate=null,
+                    //ViewCount=10,   
                     Author=authors[0],
                     Category=categories[0],
                     Tags=new List<Tag>()

@@ -15,20 +15,16 @@ namespace TatBlog.Data.Mappings
         {
             builder.ToTable("Categories");
 
-            builder.HasKey(c => c.Id);
+            builder.HasKey(p => p.Id);
 
-            builder.Property(c => c.Name)
-                .HasMaxLength(50)
-                .IsRequired();
+            builder.Property(p => p.Name)
+                .IsRequired()
+                .HasMaxLength(50);
 
-            builder.Property(c => c.Description)
+            builder.Property(p => p.Description)
                 .HasMaxLength(500);
 
-            builder.Property(c => c.UrlSlug)
-                .HasMaxLength (50)
-                .IsRequired();
-
-            builder.Property(c => c.ShowOnMenu)
+            builder.Property(p => p.ShowOnMenu)
                 .IsRequired()
                 .HasDefaultValue(false);
         }

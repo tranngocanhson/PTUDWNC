@@ -3,6 +3,20 @@
   "defaultProvider": "unpkg",
   "libraries": [
     {
+      "library": "jquery@3.6.4",
+      "destination": "wwwroot/lib/jquery/",
+      "files": [
+        "LICENSE.txt",
+        "dist/jquery.js",
+        "dist/jquery.min.js",
+        "dist/jquery.min.map",
+        "dist/jquery.slim.js",
+        "dist/jquery.slim.min.js",
+        "dist/jquery.slim.min.map",
+        "README.md"
+      ]
+    },
+    {
       "library": "jquery-validation@1.19.5",
       "destination": "wwwroot/lib/jquery-validation/",
       "files": [
@@ -134,30 +148,12 @@
         "dist/additional-methods.min.js",
         "dist/jquery.validate.js",
         "dist/jquery.validate.min.js",
-        "README.md",
-        "LICENSE.md"
+        "LICENSE.md",
+        "README.md"
       ]
     },
     {
-      "library": "jquery@3.6.3",
-      "destination": "wwwroot/lib/jquery/",
-      "files": [
-        "LICENSE.txt",
-        "README.md",
-        "dist/jquery.js",
-        "dist/jquery.min.js",
-        "dist/jquery.min.map",
-        "dist/jquery.slim.js",
-        "dist/jquery.slim.min.js",
-        "dist/jquery.slim.min.map"
-      ]
-    },
-    {
-      "library": "jquery-validation-unobtrusive@4.0.0",
-      "destination": "wwwroot/lib/jquery-validation-unobtrusive/"
-    },
-    {
-      "library": "bootstrap@5.1.0",
+      "library": "bootstrap@5.2.3",
       "destination": "wwwroot/lib/bootstrap/",
       "files": [
         "dist/css/bootstrap-grid.css",
@@ -221,6 +217,16 @@
         "fonts/fontawesome-webfont.woff",
         "fonts/fontawesome-webfont.woff2",
         "fonts/FontAwesome.otf"
+      ]
+    },
+    {
+      "library": "jquery-validation-unobtrusive@4.0.0",
+      "destination": "wwwroot/jquery-validation-unobtrusive/",
+      "files": [
+        "LICENSE.txt",
+        "README.md",
+        "dist/jquery.validate.unobtrusive.js",
+        "dist/jquery.validate.unobtrusive.min.js"
       ]
     }
   ]

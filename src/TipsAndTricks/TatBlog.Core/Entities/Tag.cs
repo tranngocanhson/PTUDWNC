@@ -14,6 +14,5 @@ namespace TatBlog.Core.Entities
         public string UrlSlug { get; set; }
         public string Description { get; set; }
         public IList<Post> Posts { get; set; }
-
     }
 }

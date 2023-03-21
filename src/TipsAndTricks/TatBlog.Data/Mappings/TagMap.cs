@@ -9,24 +9,25 @@ using TatBlog.Core.Entities;
 
 namespace TatBlog.Data.Mappings
 {
-    public class TagMap : IEntityTypeConfiguration<Tag>
+    internal class TagMap : IEntityTypeConfiguration<Tag>
     {
         public void Configure(EntityTypeBuilder<Tag> builder)
         {
             builder.ToTable("Tags");
+            
+            builder.HasKey(t => t.Id);
 
-            builder.HasKey(x => x.Id);
-
-            builder.Property(x => x.Name)
+            builder.Property(t => t.Name)
                 .IsRequired()
                 .HasMaxLength(50);
 
-            builder.Property(x => x.Description)
+            builder.Property(t => t.Description)
                 .HasMaxLength(500);
 
-            builder.Property(x => x.UrlSlug)
+            builder.Property(t => t.UrlSlug)
                 .HasMaxLength(50)
                 .IsRequired();
+
         }
     }
 }

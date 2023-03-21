@@ -9,9 +9,9 @@ namespace TatBlog.WinApp
 {
     public class PagingParams : IPagingParams
     {
-        public int PageSize { get; set; } = 10;
-        public int PageNumber { get; set; } = 1;
-        public int SortColumn { get; set; } = "Id";
-        public int SortOrder { get; set; } = "ASC";
+        public int PageSize { get; set; }
+        public int PageNumber { get; set; }
+        public string SortColumn { get; set; } = "Id";
+        public string SortOrder { get; set; } = "ASC";
     }
 }

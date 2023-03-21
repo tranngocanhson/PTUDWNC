@@ -1,0 +1,6 @@
+﻿@model Post
+
+@{
+    var imageUrl = string.IsNullOrWhiteSpace(Model.ImageUrl)
+    ? "/images/"
+}

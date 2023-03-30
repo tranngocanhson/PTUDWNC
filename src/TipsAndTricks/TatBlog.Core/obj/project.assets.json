@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\again\\TipsAndTricks\\TatBlog.Core\\TatBlog.Core.csproj",
+      "projectUniqueName": "D:\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.Core\\TatBlog.Core.csproj",
       "projectName": "TatBlog.Core",
-      "projectPath": "D:\\again\\TipsAndTricks\\TatBlog.Core\\TatBlog.Core.csproj",
+      "projectPath": "D:\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.Core\\TatBlog.Core.csproj",
       "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "D:\\again\\TipsAndTricks\\TatBlog.Core\\obj\\",
+      "outputPath": "D:\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

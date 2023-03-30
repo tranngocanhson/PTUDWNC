@@ -76,3 +76,11 @@ D:\again\TipsAndTricks\TatBlog.WinApp\obj\Debug\net6.0\TatBlog.WinApp.pdb
 D:\again\TipsAndTricks\TatBlog.WinApp\obj\Debug\net6.0\TatBlog.WinApp.genruntimeconfig.cache
 D:\again\TipsAndTricks\TatBlog.WinApp\obj\Debug\net6.0\ref\TatBlog.WinApp.dll
 D:\again\TipsAndTricks\TatBlog.WinApp\bin\Debug\net6.0\System.Linq.Dynamic.Core.dll
+D:\PTUDWNC\src\TipsAndTricks\TatBlog.WinApp\obj\Debug\net6.0\TatBlog.WinApp.csproj.AssemblyReference.cache
+D:\PTUDWNC\src\TipsAndTricks\TatBlog.WinApp\obj\Debug\net6.0\TatBlog.WinApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\PTUDWNC\src\TipsAndTricks\TatBlog.WinApp\obj\Debug\net6.0\TatBlog.WinApp.AssemblyInfoInputs.cache
+D:\PTUDWNC\src\TipsAndTricks\TatBlog.WinApp\obj\Debug\net6.0\TatBlog.WinApp.AssemblyInfo.cs
+D:\PTUDWNC\src\TipsAndTricks\TatBlog.WinApp\obj\Debug\net6.0\TatBlog.WinApp.csproj.CoreCompileInputs.cache
+D:\PTUDWNC\src\TipsAndTricks\TatBlog.WinApp\obj\Debug\net6.0\TatBlog.WinApp.dll
+D:\PTUDWNC\src\TipsAndTricks\TatBlog.WinApp\obj\Debug\net6.0\refint\TatBlog.WinApp.dll
+D:\PTUDWNC\src\TipsAndTricks\TatBlog.WinApp\obj\Debug\net6.0\TatBlog.WinApp.pdb

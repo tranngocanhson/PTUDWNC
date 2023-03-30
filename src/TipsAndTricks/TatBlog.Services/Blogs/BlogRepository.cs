@@ -107,5 +107,10 @@ namespace TatBlog.Services.Blogs
             return await tagQuery
                 .ToPagedListAsync(pagingParams, cancellationToken);
         }
+
+        public async Task<IList<Post>> GetPagedPostAsync(PostQuery condition, int pageNumber = 1, int pageSize = 10, CancellationToken cancellationToken = default)
+        {
+            return await FilterPosts(condition).ToPagedListAsync(pageNumber, pageSize, nameof(Post.PostedDate, "DESC", cancellationToken);
+        }
     }
 }
